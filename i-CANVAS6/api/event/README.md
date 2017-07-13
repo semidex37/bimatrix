@@ -7,7 +7,7 @@ Event
 - [CalendarYMFromTo](CalendarYMFromTo.md)
 - [CheckBox](CheckBox.md)
 - [ComboBox](ComboBox.md)
-- [i-CANVAS 6](i-CANVAS 6.md)
+- [i-CANVAS 6](i-CANVAS-6.md)
 - [Image](Image.md)
 - [MaskTextBox](MaskTextBox.md)
 - [MulticomboBox](MulticomboBox.md)
